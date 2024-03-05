@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp; PHP | MySQL
+- 💻 &nbsp; PHP | MySQL | MariaDB | Postgress | a bit of React
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+- 🌐 &nbsp; HTML5 | CSS | JavaScript | Bootstrap | JQuery
 
 
 
