@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp; PHP | MySQL | MariaDB | Postgress | a bit of React
+- 💻 &nbsp; PHP | MySQL | MariaDB | Postgress | Javascript | 
 
-- 🌐 &nbsp; HTML5 | CSS | JavaScript | Bootstrap | JQuery
+- 🌐 &nbsp; HTML5 | CSS | JavaScript | Bootstrap | JQuery | REACTJS | ChartJS | DataTableJS | ...
 
 
 
@@ -37,8 +37,8 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umLusca&show_icons=true)](https://github.com/umLusca)
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=umLusca&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=umLusca&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <br/>
 
 <br/>
