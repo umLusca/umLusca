@@ -38,9 +38,9 @@
 
 
 <br/><br/>
-Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![WakaTime stats](https://github-readme-stats.vercel.app/api?username=umLusca&show_icons=true&theme=transparent)(https://github.com/umLusca/umLusca/) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umLusca&layout=compact&theme=transparent)(https://github.com/umLusca/umLusca/)
+
 ![WakaTime stats](https://github-readme-stats.vercel.app/api?username=umLusca&show_icons=true&theme=transparent)(https://github.com/umLusca/umLusca/)
 
 
