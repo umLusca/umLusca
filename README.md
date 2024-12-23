@@ -39,14 +39,9 @@
 
 <br/><br/>
 [![WakaTime stats](https://github-readme-stats.vercel.app/api?username=umLusca&show_icons=true&theme=transparent)](https://github.com/umLusca/umLusca/)
-<br/>
+<br/><br/>
 
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umLusca&show_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umLusca&layout=compact)
 <br><br>
 
 
