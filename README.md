@@ -38,7 +38,7 @@
 
 
 <br/><br/>
-| [![WakaTime stats](https://github-readme-stats.vercel.app/api?username=umLusca&show_icons=true&theme=transparent&locale=pt-br)](https://github.com/umLusca/umLusca/) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umLusca&layout=compact&theme=transparent&locale=pt-br)](https://github.com/umLusca/umLusca/) |
+ [![WakaTime stats](https://github-readme-stats.vercel.app/api?username=umLusca&show_icons=true&theme=transparent&locale=pt-br)](https://github.com/umLusca/umLusca/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umLusca&layout=compact&theme=transparent&locale=pt-br)](https://github.com/umLusca/umLusca/)
 
 
 
