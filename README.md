@@ -36,6 +36,23 @@
 <hr>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 23 April 2024 - To: 03 May 2025
+
+Total Time: 786 hrs 18 mins
+
+PHP              566 hrs 14 mins ██████████████████░░░░░░░   72.01 %
+JavaScript       125 hrs         ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+HTML             29 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+TypeScript       29 hrs 23 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+CSS              10 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+SCSS             2 hrs 36 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Apache Config    2 hrs 31 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+htaccess         2 hrs 7 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Image (svg)      1 hr 57 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+```
+
 <!--END_SECTION:waka-->
 
 
