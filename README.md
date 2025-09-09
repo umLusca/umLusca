@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2024 - To: 06 September 2025
+From: 23 April 2024 - To: 07 September 2025
 
-Total Time: 1,179 hrs 22 mins
+Total Time: 1,182 hrs 42 mins
 
-PHP               633 hrs 1 min   █████████████▒░░░░░░░░░░░   53.67 %
-TypeScript        282 hrs 59 mins ██████░░░░░░░░░░░░░░░░░░░   23.99 %
-JavaScript        132 hrs 34 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
-CSS               43 hrs 48 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-HTML              33 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+PHP               633 hrs 1 min   █████████████▒░░░░░░░░░░░   53.52 %
+TypeScript        283 hrs 12 mins ██████░░░░░░░░░░░░░░░░░░░   23.94 %
+JavaScript        132 hrs 34 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+CSS               46 hrs 55 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+HTML              33 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 Kotlin            4 hrs 13 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
