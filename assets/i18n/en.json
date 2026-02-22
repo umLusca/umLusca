@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Lucas Pinheiro | Portfolio",
-    "description": "Portfolio of Lucas Pinheiro, a developer focused on web systems for enterprise management and analytics."
+    "title": "1L Team | Portfolio",
+    "description": "Portfolio of 1l Team by Lucas Pinheiro, a developer focused on web systems for enterprise management and analytics."
   },
   "nav": {
     "about": "About",
@@ -11,8 +11,8 @@
     "contact": "Contact"
   },
   "hero": {
-    "badge": "Web & Mobile Developer",
-    "intro": "Hi, I'm",
+    "badge": "Web & Mobile Development",
+    "intro": "Hi, meet",
     "since": "Coding since",
     "focus": "Enterprise management and analytics",
     "ctaProjects": "View projects",

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Lucas Pinheiro | Portfólio",
-    "description": "Portfólio de Lucas Pinheiro, desenvolvedor focado em sistemas web para gestão e análise enterprise."
+    "title": "1L Team | Portfólio",
+    "description": "Portfólio de 1L Team por Lucas Pinheiro, desenvolvedor focado em sistemas web para gestão e análise enterprise."
   },
   "nav": {
     "about": "Sobre",
@@ -11,8 +11,8 @@
     "contact": "Contato"
   },
   "hero": {
-    "badge": "Desenvolvedor Web & Mobile",
-    "intro": "Olá, eu sou",
+    "badge": "Desenvolvimento Web & Mobile",
+    "intro": "Olá, conheça",
     "since": "Programando desde",
     "focus": "Gestão e análise enterprise",
     "ctaProjects": "Ver projetos",
