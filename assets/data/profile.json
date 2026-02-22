@@ -86,8 +86,8 @@
     "wakatimeProfileUrl": "https://wakatime.com/@68eb5e3a-b39e-4578-b383-e448942b85d5",
     "wakatimeBadge": "https://wakatime.com/badge/user/68eb5e3a-b39e-4578-b383-e448942b85d5.svg",
     "codeTimeProjectUrl": "https://github.com/umLusca/umLusca/",
-    "codeTimeBadge": "https://img.shields.io/endpoint?style=flat&color=039&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30825%26project%3D%26in=0",
-    "githubStats": "https://github-readme-stats.vercel.app/api?username=umLusca&show_icons=true&theme=transparent&locale=pt-br",
-    "githubTopLangs": "https://github-readme-stats.vercel.app/api/top-langs/?username=umLusca&layout=compact&theme=transparent&locale=pt-br"
+    "codeTimeBadge": "https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30825",
+    "githubStats": "https://github-readme-stats.vercel.app/api?username=umLusca&show_icons=true&hide_border=true&bg_color=00000000&title_color=5fffd0&text_color=eaf2ff&icon_color=49c6ff&locale=pt-br&cache_seconds=21600",
+    "githubTopLangs": "https://github-readme-stats.vercel.app/api/top-langs/?username=umLusca&layout=compact&hide_border=true&bg_color=00000000&title_color=5fffd0&text_color=eaf2ff&locale=pt-br&cache_seconds=21600"
   }
 }
