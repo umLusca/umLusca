@@ -46,10 +46,12 @@
 </p>
 <h4>Others</h4>
 - 💻 &nbsp; MariaDB <br>
+- 💻 &nbsp; Laravel <br>
 - 📊 &nbsp; ChartJS <br>
 - 📊 &nbsp; Apache Charts <br>
 - ⇄ &nbsp; Phinx (DB Migrations) <br>
 - ⇄ &nbsp; Pusher (WebSockets) <br>
+- ⇄ &nbsp; Ably (WebSockets) <br>
  <br> 
 
 <h2>Metrics</h2>
