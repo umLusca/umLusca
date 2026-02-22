@@ -1,0 +1,215 @@
+[
+  {
+    "id": "fichasop",
+    "name": "FichasOP",
+    "slug": "fichasop",
+    "summary": {
+      "pt": "Plataforma de RPG de mesa, utilizada por mais de 280 mil jogadores. Mestres e Players podem criar fichas de personagens, equipamentos e itens, e gerenciar suas listas de jogadores.",
+      "en": "Platform for RPG tabletop games, used by more than 280 thousand players. Masters and Players can create character sheets, equipment, and items, and manage their player lists."
+    },
+    "stack": [
+      "PHP",
+      "Laravel",
+      "MariaDB",
+      "JavaScript",
+      "Preact",
+      "Tailwind",
+      "CSS"
+    ],
+    "category": "platform",
+    "role": {
+      "pt": "Desenvolvedor Único - Projeto Pessoal",
+      "en": "Single developer - Personal project"
+    },
+    "highlights": [
+      {
+        "pt": "Sistema Complexo e Automático",
+        "en": "Complex system and automated workflow"
+      },
+      {
+        "pt": "Painéis internos",
+        "en": "Internal dashboards"
+      }
+    ],
+    "repoUrl": null,
+    "demoUrl": "https://fichasop.com",
+    "status": "Public",
+    "featured": true,
+    "sortOrder": 1,
+    "cover": null
+  },
+  {
+    "id": "fichasop-app",
+    "name": "App do FichaSOP",
+    "slug": "app-do-fichasop",
+    "summary": {
+      "pt": "Aplicativo visando facilitar a interação dos jogadores, tendo em vista que muitas das vezes as sessões são presenciais.",
+      "en": "Mobile app to facilitate player interaction, taking into account that many sessions are usually in-person."
+    },
+    "stack": [
+      "Cordova",
+      "React Native",
+      "TypeScript",
+      "CSS"
+    ],
+    "category": "mobile",
+    "role": {
+      "pt": "Aplicação mobile e integração com APIs",
+      "en": "Mobile app and API integration"
+    },
+    "highlights": [
+      {
+        "pt": "Experiência mobile",
+        "en": "Mobile UX"
+      },
+      {
+        "pt": "Integração com backend",
+        "en": "Backend integration"
+      }
+    ],
+    "repoUrl": null,
+    "demoUrl": null,
+    "status": "public",
+    "featured": true,
+    "sortOrder": 2,
+    "cover": null
+  },
+  {
+    "id": "gabinete-amazonas",
+    "name": "Gabinete Amazonas",
+    "slug": "gabinete-amazonas",
+    "summary": {
+      "pt": "Projeto com foco institucional e organizacional, priorizando clareza de informação, estrutura de conteúdo e manutenção contínua.",
+      "en": "Institutional/organizational project focused on information clarity, content structure, and continuous maintenance."
+    },
+    "stack": [
+      "Laravel",
+      "Preact",
+      "Tailwind",
+      "Websockets",
+      "Whatsapp API",
+      "MariaDB",
+      "Php Native"
+    ],
+    "category": "public",
+    "role": {
+      "pt": "Desenvolvedor Primário",
+      "en": "Main developer"
+    },
+    "highlights": [
+      {
+        "pt": "Arquitetura de conteúdo",
+        "en": "Content architecture"
+      }
+    ],
+    "repoUrl": null,
+    "demoUrl": null,
+    "status": "private",
+    "featured": true,
+    "sortOrder": 3,
+    "cover": null
+  },
+  {
+    "id": "rtransporte",
+    "name": "RRTransporte",
+    "slug": "rtransporte",
+    "summary": {
+      "pt": "Sistema de gestão de frotas e rotas (Romaneios), responsável por facilitar a logística da empresa.",
+      "en": "Management system for freight and routes (Rommian routes), responsible for facilitating the logistics of the company."
+    },
+    "stack": [
+      "PHP",
+      "Preact",
+      "Tailwind",
+      "MariaDB",
+      "Google Maps API"
+    ],
+    "category": "logistics",
+    "role": {
+      "pt": "Desenvolvedor Único - Projeto para uma Empresa",
+      "en": "Single developer - Project for an enterprise"
+    },
+    "highlights": [
+      {
+        "pt": "Regras de negócio",
+        "en": "Business rules"
+      },
+      {
+        "pt": "Módulos de acompanhamento",
+        "en": "Tracking modules"
+      }
+    ],
+    "repoUrl": null,
+    "demoUrl": null,
+    "status": "private",
+    "featured": true,
+    "sortOrder": 4,
+    "cover": null
+  },
+  {
+    "id": "renovare",
+    "name": "Renovare RH",
+    "slug": "renovare",
+    "summary": {
+      "pt": "Plataforma de RH completa, desde o portal de vagas até parte gestão de candidatos, com sistemas de formulários customizados e funil de aprovação organizacional.",
+      "en": "HR platform from job portal to candidate management, with customizable form systems and an organizational approval funnel."
+    },
+    "stack": [
+      "PHP",
+      "HTML",
+      "Bootstrap",
+      "Ajax",
+      "MariaDB",
+      "React"
+    ],
+    "category": "enterprise",
+    "role": {
+      "pt": "Desenvolvedor Primário - Projeto para uma Empresa",
+      "en": "Main developer - Project for an enterprise"
+    },
+    "highlights": [
+      {
+        "pt": "Stack TypeScript",
+        "en": "TypeScript stack"
+      }
+    ],
+    "repoUrl": null,
+    "demoUrl": null,
+    "status": "private",
+    "featured": true,
+    "sortOrder": 5,
+    "cover": null
+  },
+  {
+    "id": "playpixel",
+    "name": "PlayPixel",
+    "slug": "playpixel",
+    "summary": {
+      "pt": "Plataforma de vendas para fotógrafos e videomakers. UI Focada para experiência de usuário, refinado visualmente e interativo.",
+      "en": "Sales platform for photographers and video makers. UI focused for user experience, refined visually and interactive."
+    },
+    "stack": [
+      "Ajax",
+      "PHP",
+      "FFMPEG",
+      "Mercado Pago API"
+    ],
+    "category": "creative",
+    "role": {
+      "pt": "Desenvolvedor Único - Projeto para uma Empresa",
+      "en": "Main developer - Project for an enterprise"
+    },
+    "highlights": [
+      {
+        "pt": "Interações e UI",
+        "en": "Interactions and UI"
+      }
+    ],
+    "repoUrl": null,
+    "demoUrl": null,
+    "status": "private",
+    "featured": true,
+    "sortOrder": 6,
+    "cover": null
+  }
+]

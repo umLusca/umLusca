@@ -1,0 +1,93 @@
+{
+  "name": "Lucas Pinheiro",
+  "startedAt": 2020,
+  "headline": {
+    "pt": "Desenvolvo sistemas web, focados em gestão e análise enterprise.",
+    "en": "I build web systems focused on enterprise management and analytics."
+  },
+  "bioShort": {
+    "pt": "Atuo com PHP, JavaScript/TypeScript e Node.js para criar produtos robustos, painéis operacionais e soluções que sustentam processos reais.",
+    "en": "I work with PHP, JavaScript/TypeScript, and Node.js to build robust products, operational dashboards, and systems that support real-world workflows."
+  },
+  "aboutPrimary": {
+    "pt": "Sou programador desde 2020, com foco em sistemas de gestão, automação de rotinas e interfaces orientadas à operação. Minha base principal combina PHP/Laravel com JavaScript/TypeScript para entregar aplicações consistentes e fáceis de evoluir.",
+    "en": "I have been programming since 2020, focused on management systems, workflow automation, and operation-driven interfaces. My core stack combines PHP/Laravel with JavaScript/TypeScript to deliver consistent applications that are easy to evolve."
+  },
+  "aboutSecondary": {
+    "pt": "Também atuo em aplicações mobile com React Native e em integrações com bancos relacionais como MySQL, MariaDB e PostgreSQL. O objetivo é sempre o mesmo: transformar necessidade de negócio em software com boa manutenção.",
+    "en": "I also work on mobile apps with React Native and integrations with relational databases such as MySQL, MariaDB, and PostgreSQL. The goal is always the same: turn business needs into maintainable software."
+  },
+  "logoAsset": null,
+  "heroBadges": [
+    "PHP",
+    "TypeScript",
+    "Node.js",
+    "Laravel",
+    "React"
+  ],
+  "contact": {
+    "email": "lucaspinheiro@duck.com",
+    "phoneDisplay": "(92) 98154-2248",
+    "phoneIntl": "+5592981542248",
+    "whatsapp": "+5592981542248",
+    "github": "https://github.com/umLusca"
+  },
+  "skills": [
+    {
+      "key": "languages",
+      "label": {
+        "pt": "Linguagens",
+        "en": "Languages"
+      },
+      "items": ["PHP", "JavaScript", "TypeScript", "CSS", "SQL"]
+    },
+    {
+      "key": "backend",
+      "label": {
+        "pt": "Backend",
+        "en": "Backend"
+      },
+      "items": ["Node.js", "Laravel", "Phinx", "REST APIs"]
+    },
+    {
+      "key": "frontend",
+      "label": {
+        "pt": "Frontend",
+        "en": "Frontend"
+      },
+      "items": ["React", "Preact", "Bootstrap", "PrimeReact", "Tailwind", "shadcn/ui"]
+    },
+    {
+      "key": "mobile",
+      "label": {
+        "pt": "Mobile",
+        "en": "Mobile"
+      },
+      "items": ["React Native"]
+    },
+    {
+      "key": "databases",
+      "label": {
+        "pt": "Banco de Dados",
+        "en": "Databases"
+      },
+      "items": ["MySQL", "MariaDB", "PostgreSQL"]
+    },
+    {
+      "key": "ui",
+      "label": {
+        "pt": "UI e Estilo",
+        "en": "UI and Styling"
+      },
+      "items": ["CSS", "Tailwind", "Bootstrap", "PrimeReact"]
+    }
+  ],
+  "metrics": {
+    "wakatimeProfileUrl": "https://wakatime.com/@68eb5e3a-b39e-4578-b383-e448942b85d5",
+    "wakatimeBadge": "https://wakatime.com/badge/user/68eb5e3a-b39e-4578-b383-e448942b85d5.svg",
+    "codeTimeProjectUrl": "https://github.com/umLusca/umLusca/",
+    "codeTimeBadge": "https://img.shields.io/endpoint?style=flat&color=039&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30825%26project%3D%26in=0",
+    "githubStats": "https://github-readme-stats.vercel.app/api?username=umLusca&show_icons=true&theme=transparent&locale=pt-br",
+    "githubTopLangs": "https://github-readme-stats.vercel.app/api/top-langs/?username=umLusca&layout=compact&theme=transparent&locale=pt-br"
+  }
+}

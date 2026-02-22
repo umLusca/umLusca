@@ -1,0 +1,98 @@
+.js [data-reveal] {
+  opacity: 0;
+  transform: translateY(18px);
+}
+
+.js [data-reveal].is-visible {
+  opacity: 1;
+  transform: translateY(0);
+  transition:
+    opacity 520ms cubic-bezier(.16, .84, .24, 1),
+    transform 520ms cubic-bezier(.16, .84, .24, 1);
+  transition-delay: var(--reveal-delay, 0ms);
+}
+
+.hero-visual {
+  animation: panelPulse 9s ease-in-out infinite;
+}
+
+.orbit--1 {
+  animation: spinClock 18s linear infinite;
+}
+
+.orbit--2 {
+  animation: spinCounter 24s linear infinite;
+}
+
+.scan-line {
+  animation: scanMove 3.2s ease-in-out infinite;
+}
+
+.ambient--top {
+  animation: ambientDrift 18s ease-in-out infinite alternate;
+}
+
+.ambient--mid {
+  animation: ambientDrift 22s ease-in-out infinite alternate-reverse;
+}
+
+@keyframes spinClock {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes spinCounter {
+  from { transform: rotate(360deg); }
+  to { transform: rotate(0deg); }
+}
+
+@keyframes scanMove {
+  0%, 100% {
+    top: 16%;
+    opacity: 0.4;
+  }
+  50% {
+    top: 78%;
+    opacity: 0.9;
+  }
+}
+
+@keyframes panelPulse {
+  0%, 100% {
+    box-shadow: var(--shadow-panel), 0 0 0 1px rgba(95, 255, 208, 0.08), 0 0 60px rgba(73, 198, 255, 0.08);
+  }
+  50% {
+    box-shadow: var(--shadow-panel), 0 0 0 1px rgba(95, 255, 208, 0.12), 0 0 84px rgba(73, 198, 255, 0.12);
+  }
+}
+
+@keyframes ambientDrift {
+  from { transform: translate3d(0, 0, 0); }
+  to { transform: translate3d(0, 8px, 0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .js [data-reveal] {
+    opacity: 1;
+    transform: none;
+  }
+
+  .hero-visual,
+  .orbit--1,
+  .orbit--2,
+  .scan-line,
+  .ambient--top,
+  .ambient--mid {
+    animation: none !important;
+  }
+
+  * {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}

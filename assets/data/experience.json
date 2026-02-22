@@ -1,0 +1,38 @@
+[
+  {
+    "period": "2020",
+    "title": {
+      "pt": "Início da trajetória em desenvolvimento",
+      "en": "Started the development journey"
+    },
+    "description": {
+      "pt": "Base autodidata em programação, construindo projetos e consolidando fundamentos de lógica, web e banco de dados.",
+      "en": "Self-taught foundation in programming, building projects and consolidating logic, web, and database fundamentals."
+    },
+    "tags": ["Autodidata", "Web", "Fundamentos"]
+  },
+  {
+    "period": "2021–2023",
+    "title": {
+      "pt": "Foco em sistemas web de gestão",
+      "en": "Focused on management web systems"
+    },
+    "description": {
+      "pt": "Evolução em PHP/Laravel e JavaScript/TypeScript para sistemas com backoffice, rotinas operacionais, dashboards e integrações com bancos relacionais.",
+      "en": "Growth in PHP/Laravel and JavaScript/TypeScript for systems with backoffice, operational routines, dashboards, and relational database integrations."
+    },
+    "tags": ["PHP", "Laravel", "TypeScript", "MySQL", "PostgreSQL"]
+  },
+  {
+    "period": "2024–Atual",
+    "title": {
+      "pt": "Expansão para mobile e interfaces mais refinadas",
+      "en": "Expanded into mobile and more refined interfaces"
+    },
+    "description": {
+      "pt": "Ampliação da stack com React Native, React/Preact e maior foco em qualidade visual, usabilidade e estrutura de código para manutenção contínua.",
+      "en": "Expanded the stack with React Native, React/Preact, and stronger focus on visual quality, usability, and maintainable code structure."
+    },
+    "tags": ["React Native", "React", "Preact", "UI", "Arquitetura"]
+  }
+]

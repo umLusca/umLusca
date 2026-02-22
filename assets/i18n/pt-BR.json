@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "title": "Lucas Pinheiro | Portfólio",
+    "description": "Portfólio de Lucas Pinheiro, desenvolvedor focado em sistemas web para gestão e análise enterprise."
+  },
+  "nav": {
+    "about": "Sobre",
+    "stack": "Stack",
+    "projects": "Projetos",
+    "experience": "Trajetória",
+    "contact": "Contato"
+  },
+  "hero": {
+    "badge": "Desenvolvedor Web & Mobile",
+    "intro": "Olá, eu sou",
+    "since": "Programando desde",
+    "focus": "Gestão e análise enterprise",
+    "ctaProjects": "Ver projetos",
+    "ctaContact": "Contato",
+    "visualCaption": "Espaço reservado para a logo da sua empresa"
+  },
+  "about": {
+    "kicker": "Sobre",
+    "title": "Construindo sistemas para operação real",
+    "intro": "Experiência aplicada em produtos que exigem organização, dados consistentes e interface voltada para uso diário.",
+    "stats": {
+      "start": "Início",
+      "mainStack": "Stack principal",
+      "focus": "Foco",
+      "focusValue": "Sistemas de gestão",
+      "output": "Entrega",
+      "outputValue": "Web e Mobile"
+    }
+  },
+  "stack": {
+    "kicker": "Stack",
+    "title": "Ferramentas para construir com velocidade e manutenção",
+    "subtitle": "Linguagens, frameworks e bancos que uso no dia a dia para aplicações web e mobile."
+  },
+  "projects": {
+    "kicker": "Projetos",
+    "title": "Cases selecionados para mostrar execução técnica",
+    "subtitle": "Curadoria inicial de projetos e produtos com foco em gestão, operação e análise.",
+    "profileCta": "Ver GitHub",
+    "empty": "Nenhum projeto encontrado.",
+    "linkCode": "Código",
+    "linkDemo": "Demo",
+    "noPublicLinks": "Case sem link público no momento. Posso apresentar contexto e arquitetura em conversa técnica.",
+    "rolePrefix": "Atuação:",
+    "status": {
+      "active": "Ativo",
+      "archived": "Arquivado",
+      "private": "Privado",
+      "case-study": "Case"
+    },
+    "categories": {
+      "enterprise": "Enterprise",
+      "mobile": "Mobile",
+      "public": "Institucional",
+      "logistics": "Operação",
+      "creative": "Frontend/UI"
+    }
+  },
+  "experience": {
+    "kicker": "Trajetória",
+    "title": "Evolução contínua em produtos, código e operação",
+    "subtitle": "Linha do tempo curta para contextualizar sua experiência e foco técnico."
+  },
+  "metrics": {
+    "kicker": "Métricas",
+    "title": "Sinais de consistência e ritmo de desenvolvimento",
+    "subtitle": "Embeds reais de atividade e estatísticas públicas. Se algum serviço falhar, o card mostra fallback.",
+    "cards": {
+      "wakaBadge": "WakaTime Badge",
+      "codeTime": "CodeTime Badge",
+      "githubStats": "GitHub Stats",
+      "topLangs": "Top Languages"
+    },
+    "open": "Abrir",
+    "fallback": "Não foi possível carregar este embed agora."
+  },
+  "contact": {
+    "kicker": "Contato",
+    "title": "Vamos conversar sobre produto, operação ou arquitetura",
+    "intro": "Contato direto para discutir projetos, arquitetura, manutenção de sistemas e melhorias de produto.",
+    "email": "Email",
+    "phone": "Telefone",
+    "emailHint": "Resposta rápida para briefing e alinhamento",
+    "phoneHint": "Ligação ou mensagem direta",
+    "whatsappValue": "Abrir conversa",
+    "whatsappHint": "Canal rápido para contato inicial",
+    "githubHint": "Repositórios, histórico e experimentos"
+  },
+  "footer": {
+    "madeBy": "Feito por",
+    "focus": "Portfólio focado em sistemas de gestão e análise",
+    "backToTop": "Voltar ao topo"
+  }
+}

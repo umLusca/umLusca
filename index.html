@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+          content="Conheça mais sobre os meus serviços. Atuando com anos de experiência entregando a mais refinada qualidade em projetos web.">
+    <meta name="theme-color" content="#06070a">
+    <title>Lucas Pinheiro | Portfólio</title>
+    <script>document.documentElement.classList.add('js');</script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+          rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/tokens.css">
+    <link rel="stylesheet" href="assets/css/base.css">
+    <link rel="stylesheet" href="assets/css/components.css">
+    <link rel="stylesheet" href="assets/css/sections.css">
+    <link rel="stylesheet" href="assets/css/animations.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+<body>
+<div class="site-shell">
+    <div class="ambient ambient--top" aria-hidden="true"></div>
+    <div class="ambient ambient--mid" aria-hidden="true"></div>
+    <div class="ambient ambient--grid" aria-hidden="true"></div>
+
+    <header class="site-header" id="top">
+        <div class="container header-inner">
+            <a class="brand" href="#top" aria-label="Voltar ao topo">
+                <span class="brand-mark">LP</span>
+                <span class="brand-text">Lucas Pinheiro</span>
+            </a>
+
+            <nav class="site-nav" aria-label="Navegação principal">
+                <a href="#about" data-i18n="nav.about">Sobre</a>
+                <a href="#stack" data-i18n="nav.stack">Stack</a>
+                <a href="#projects" data-i18n="nav.projects">Projetos</a>
+                <a href="#experience" data-i18n="nav.experience">Trajetória</a>
+                <a href="#contact" data-i18n="nav.contact">Contato</a>
+            </nav>
+
+            <div class="header-actions">
+                <div class="lang-toggle" role="group" aria-label="Idioma">
+                    <button type="button" class="lang-btn is-active" data-lang-btn="pt-BR">PT</button>
+                    <button type="button" class="lang-btn" data-lang-btn="en">EN</button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main style="margin: 1rem">
+        <section class="hero section" aria-labelledby="hero-title">
+            <div class="container hero-layout">
+                <div class="hero-copy">
+                    <p class="eyebrow" data-i18n="hero.badge" data-reveal>Desenvolvedor Web & Mobile</p>
+                    <h1 class="hero-title" id="hero-title" data-reveal data-reveal-delay="70">
+                        <span data-i18n="hero.intro">Olá, eu sou</span>
+                        <span class="hero-name">Lucas Pinheiro</span>
+                    </h1>
+                    <p class="hero-headline" id="hero-headline" data-reveal data-reveal-delay="120"></p>
+                    <p class="hero-summary" id="hero-summary" data-reveal data-reveal-delay="170"></p>
+
+                    <div class="hero-meta" data-reveal data-reveal-delay="220">
+              <span class="meta-pill">
+                <span class="meta-dot" aria-hidden="true"></span>
+                <span data-i18n="hero.since">Programando desde</span>
+                <strong id="started-at">2020</strong>
+              </span>
+                        <span class="meta-pill" data-i18n="hero.focus">Gestão e análise enterprise</span>
+                    </div>
+
+                    <div class="hero-actions" data-reveal data-reveal-delay="270">
+                        <a class="btn btn--primary" href="#projects" data-i18n="hero.ctaProjects">Ver projetos</a>
+                        <a class="btn btn--ghost" href="#contact" data-i18n="hero.ctaContact">Contato</a>
+                    </div>
+
+                    <ul class="hero-chip-list" id="hero-badges" aria-label="Stacks principais" data-reveal
+                        data-reveal-delay="320"></ul>
+                </div>
+
+                <div class="hero-visual-wrap" data-reveal data-reveal-delay="200">
+                    <div class="hero-visual" id="hero-visual" aria-hidden="true">
+                        <img style="border-radius: 1rem" src="assets/img/logo.png" alt="Placeholder de logo" class="hero-logo" width="320"
+                             height="320">
+                        <div class="orbit orbit--1"></div>
+                        <div class="orbit orbit--2"></div>
+                        <div class="scan-line"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section" id="about" aria-labelledby="about-title">
+            <div class="container">
+                <div class="section-heading" data-reveal>
+                    <p class="section-kicker" data-i18n="about.kicker">Sobre</p>
+                    <h2 class="section-title" id="about-title" data-i18n="about.title">Construindo sistemas para
+                        operação real</h2>
+                    <p class="section-subtitle" id="about-intro"></p>
+                </div>
+
+                <div class="about-grid">
+                    <article class="surface-panel about-panel" data-reveal data-reveal-delay="70">
+                        <p id="about-bio"></p>
+                        <p id="about-focus"></p>
+                    </article>
+
+                    <div class="about-stats" data-reveal data-reveal-delay="120">
+                        <div class="surface-panel stat-card">
+                            <span class="stat-label" data-i18n="about.stats.start">Início</span>
+                            <strong class="stat-value">2020</strong>
+                        </div>
+                        <div class="surface-panel stat-card">
+                            <span class="stat-label" data-i18n="about.stats.mainStack">Stack principal</span>
+                            <strong class="stat-value">PHP + TS</strong>
+                        </div>
+                        <div class="surface-panel stat-card">
+                            <span class="stat-label" data-i18n="about.stats.focus">Foco</span>
+                            <strong class="stat-value" data-i18n="about.stats.focusValue">Sistemas de gestão</strong>
+                        </div>
+                        <div class="surface-panel stat-card">
+                            <span class="stat-label" data-i18n="about.stats.output">Entrega</span>
+                            <strong class="stat-value" data-i18n="about.stats.outputValue">Web e Mobile</strong>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section" id="stack" aria-labelledby="stack-title">
+            <div class="container">
+                <div class="section-heading" data-reveal>
+                    <p class="section-kicker" data-i18n="stack.kicker">Stack</p>
+                    <h2 class="section-title" id="stack-title" data-i18n="stack.title">Ferramentas para construir com
+                        velocidade e manutenção</h2>
+                    <p class="section-subtitle" data-i18n="stack.subtitle">Linguagens, frameworks e bancos que uso no
+                        dia a dia para aplicações web e mobile.</p>
+                </div>
+                <div class="skills-grid" id="skills-groups"></div>
+            </div>
+        </section>
+
+        <section class="section section--accent" id="projects" aria-labelledby="projects-title">
+            <div class="container">
+                <div class="section-heading section-heading--split" data-reveal>
+                    <div>
+                        <p class="section-kicker" data-i18n="projects.kicker">Projetos</p>
+                        <h2 class="section-title" id="projects-title" data-i18n="projects.title">Cases selecionados para
+                            mostrar execução técnica</h2>
+                        <p class="section-subtitle" data-i18n="projects.subtitle">Curadoria inicial de projetos e
+                            produtos com foco em gestão, operação e análise.</p>
+                    </div>
+                    <a class="btn btn--ghost btn--compact" id="projects-profile-link" href="https://github.com/umLusca"
+                       target="_blank" rel="noreferrer" data-i18n="projects.profileCta">Ver GitHub</a>
+                </div>
+
+                <div class="projects-grid" id="projects-grid" aria-live="polite"></div>
+                <p class="empty-state" id="projects-empty" hidden data-i18n="projects.empty">Nenhum projeto
+                    encontrado.</p>
+            </div>
+        </section>
+
+        <section class="section" id="experience" aria-labelledby="experience-title">
+            <div class="container">
+                <div class="section-heading" data-reveal>
+                    <p class="section-kicker" data-i18n="experience.kicker">Trajetória</p>
+                    <h2 class="section-title" id="experience-title" data-i18n="experience.title">Evolução contínua em
+                        produtos, código e operação</h2>
+                    <p class="section-subtitle" data-i18n="experience.subtitle">Linha do tempo curta para contextualizar
+                        sua experiência e foco técnico.</p>
+                </div>
+
+                <div class="timeline" id="experience-timeline"></div>
+            </div>
+        </section>
+
+        <section class="section" id="metrics" aria-labelledby="metrics-title">
+            <div class="container">
+                <div class="section-heading" data-reveal>
+                    <p class="section-kicker" data-i18n="metrics.kicker">Métricas</p>
+                    <h2 class="section-title" id="metrics-title" data-i18n="metrics.title">Sinais de consistência e
+                        ritmo de desenvolvimento</h2>
+                    <p class="section-subtitle" data-i18n="metrics.subtitle">Embeds reais de atividade e estatísticas
+                        públicas. Se algum serviço falhar, o card mostra fallback.</p>
+                </div>
+
+                <div class="metrics-grid">
+                    <article class="surface-panel metric-card" data-reveal>
+                        <div class="metric-card-head">
+                            <h3 data-i18n="metrics.cards.wakaBadge">WakaTime Badge</h3>
+                            <a id="metrics-waka-link" href="https://wakatime.com" target="_blank" rel="noreferrer"
+                               class="inline-link" data-i18n="metrics.open">Abrir</a>
+                        </div>
+                        <div class="metric-embed" data-metric-container="wakaBadge">
+                            <img id="metrics-waka-badge" loading="lazy" alt="WakaTime badge de Lucas Pinheiro">
+                            <p class="metric-fallback" hidden data-i18n="metrics.fallback">Não foi possível carregar
+                                este embed agora.</p>
+                        </div>
+                    </article>
+
+                    <article class="surface-panel metric-card" data-reveal data-reveal-delay="60">
+                        <div class="metric-card-head">
+                            <h3 data-i18n="metrics.cards.codeTime">CodeTime Badge</h3>
+                            <a id="metrics-codetime-link" href="https://codetime.dev" target="_blank" rel="noreferrer"
+                               class="inline-link" data-i18n="metrics.open">Abrir</a>
+                        </div>
+                        <div class="metric-embed" data-metric-container="codeTimeBadge">
+                            <img id="metrics-codetime-badge" loading="lazy" alt="CodeTime badge de Lucas Pinheiro">
+                            <p class="metric-fallback" hidden data-i18n="metrics.fallback">Não foi possível carregar
+                                este embed agora.</p>
+                        </div>
+                    </article>
+
+                    <article class="surface-panel metric-card metric-card--wide" data-reveal>
+                        <div class="metric-card-head">
+                            <h3 data-i18n="metrics.cards.githubStats">GitHub Stats</h3>
+                            <a id="metrics-github-link" href="https://github.com/umLusca" target="_blank"
+                               rel="noreferrer" class="inline-link" data-i18n="metrics.open">Abrir</a>
+                        </div>
+                        <div class="metric-embed" data-metric-container="githubStats">
+                            <img id="metrics-github-stats" loading="lazy" alt="GitHub stats do perfil umLusca">
+                            <p class="metric-fallback" hidden data-i18n="metrics.fallback">Não foi possível carregar
+                                este embed agora.</p>
+                        </div>
+                    </article>
+
+                    <article class="surface-panel metric-card metric-card--wide" data-reveal data-reveal-delay="60">
+                        <div class="metric-card-head">
+                            <h3 data-i18n="metrics.cards.topLangs">Top Languages</h3>
+                            <a id="metrics-github-langs-link" href="https://github.com/umLusca" target="_blank"
+                               rel="noreferrer" class="inline-link" data-i18n="metrics.open">Abrir</a>
+                        </div>
+                        <div class="metric-embed" data-metric-container="githubTopLangs">
+                            <img id="metrics-github-langs" loading="lazy" alt="Linguagens mais usadas no GitHub">
+                            <p class="metric-fallback" hidden data-i18n="metrics.fallback">Não foi possível carregar
+                                este embed agora.</p>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section class="section section--accent" id="contact" aria-labelledby="contact-title">
+            <div class="container contact-layout">
+                <div class="section-heading" data-reveal>
+                    <p class="section-kicker" data-i18n="contact.kicker">Contato</p>
+                    <h2 class="section-title" id="contact-title" data-i18n="contact.title">Vamos conversar sobre
+                        produto, operação ou arquitetura</h2>
+                    <p class="section-subtitle" id="contact-intro"></p>
+                </div>
+
+                <div class="contact-grid">
+                    <a class="surface-panel contact-card" id="contact-email-link" href="mailto:lucaspinheiro@duck.com"
+                       data-reveal>
+                        <span class="contact-label" data-i18n="contact.email">Email</span>
+                        <strong class="contact-value" id="contact-email-text">lucaspinheiro@duck.com</strong>
+                        <span class="contact-hint" data-i18n="contact.emailHint">Resposta rápida para briefing e alinhamento</span>
+                    </a>
+
+                    <a class="surface-panel contact-card" id="contact-phone-link" href="tel:+5592981542248" data-reveal
+                       data-reveal-delay="60">
+                        <span class="contact-label" data-i18n="contact.phone">Telefone</span>
+                        <strong class="contact-value" id="contact-phone-text">(92) 98154-2248</strong>
+                        <span class="contact-hint" data-i18n="contact.phoneHint">Ligação ou mensagem direta</span>
+                    </a>
+
+                    <a class="surface-panel contact-card" id="contact-whatsapp-link" href="https://wa.me/5592981542248"
+                       target="_blank" rel="noreferrer" data-reveal data-reveal-delay="120">
+                        <span class="contact-label">WhatsApp</span>
+                        <strong class="contact-value" data-i18n="contact.whatsappValue">Abrir conversa</strong>
+                        <span class="contact-hint"
+                              data-i18n="contact.whatsappHint">Canal rápido para contato inicial</span>
+                    </a>
+
+                    <a class="surface-panel contact-card" id="contact-github-link" href="https://github.com/umLusca"
+                       target="_blank" rel="noreferrer" data-reveal data-reveal-delay="180">
+                        <span class="contact-label">GitHub</span>
+                        <strong class="contact-value" id="contact-github-text">github.com/umLusca</strong>
+                        <span class="contact-hint"
+                              data-i18n="contact.githubHint">Repositórios, histórico e experimentos</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container footer-inner">
+            <p>
+                <span data-i18n="footer.madeBy">Feito por</span>
+                <strong>Lucas Pinheiro</strong>
+                <span class="footer-dot">•</span>
+                <span data-i18n="footer.focus">Portifólio focado em expor meus serviços</span>
+            </p>
+            <a href="#top" class="inline-link" data-i18n="footer.backToTop">Voltar ao topo</a>
+        </div>
+    </footer>
+</div>
+
+<noscript>
+    <div style="padding:1rem; background:#111; color:#fff; font-family:sans-serif;">
+        Este portfólio precisa de JavaScript para carregar conteúdo bilíngue e projetos.
+    </div>
+</noscript>
+
+<script type="module" src="assets/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "title": "Lucas Pinheiro | Portfolio",
+    "description": "Portfolio of Lucas Pinheiro, a developer focused on web systems for enterprise management and analytics."
+  },
+  "nav": {
+    "about": "About",
+    "stack": "Stack",
+    "projects": "Projects",
+    "experience": "Journey",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Web & Mobile Developer",
+    "intro": "Hi, I'm",
+    "since": "Coding since",
+    "focus": "Enterprise management and analytics",
+    "ctaProjects": "View projects",
+    "ctaContact": "Contact",
+    "visualCaption": "Reserved area for your company logo"
+  },
+  "about": {
+    "kicker": "About",
+    "title": "Building systems for real operations",
+    "intro": "Hands-on experience in products that demand organization, reliable data, and interfaces built for everyday usage.",
+    "stats": {
+      "start": "Started",
+      "mainStack": "Core stack",
+      "focus": "Focus",
+      "focusValue": "Management systems",
+      "output": "Delivery",
+      "outputValue": "Web and Mobile"
+    }
+  },
+  "stack": {
+    "kicker": "Stack",
+    "title": "Tools for speed, delivery, and maintainability",
+    "subtitle": "Languages, frameworks, and databases I use to build web and mobile applications."
+  },
+  "projects": {
+    "kicker": "Projects",
+    "title": "Selected cases to demonstrate technical execution",
+    "subtitle": "Initial curation of projects and products focused on management, operations, and analytics.",
+    "profileCta": "Open GitHub",
+    "empty": "No projects found.",
+    "linkCode": "Code",
+    "linkDemo": "Demo",
+    "noPublicLinks": "This case has no public link right now. I can explain context and architecture in a technical conversation.",
+    "rolePrefix": "Role:",
+    "status": {
+      "active": "Active",
+      "archived": "Archived",
+      "private": "Private",
+      "case-study": "Case"
+    },
+    "categories": {
+      "enterprise": "Enterprise",
+      "mobile": "Mobile",
+      "public": "Institutional",
+      "logistics": "Operations",
+      "creative": "Frontend/UI"
+    }
+  },
+  "experience": {
+    "kicker": "Journey",
+    "title": "Continuous growth across products, code, and operations",
+    "subtitle": "Short timeline to give context about experience and technical focus."
+  },
+  "metrics": {
+    "kicker": "Metrics",
+    "title": "Signals of consistency and development rhythm",
+    "subtitle": "Live embeds of public activity and stats. If a service fails, the card shows a fallback.",
+    "cards": {
+      "wakaBadge": "WakaTime Badge",
+      "codeTime": "CodeTime Badge",
+      "githubStats": "GitHub Stats",
+      "topLangs": "Top Languages"
+    },
+    "open": "Open",
+    "fallback": "This embed could not be loaded right now."
+  },
+  "contact": {
+    "kicker": "Contact",
+    "title": "Let's talk about product, operations, or architecture",
+    "intro": "Direct contact to discuss projects, architecture, system maintenance, and product improvements.",
+    "email": "Email",
+    "phone": "Phone",
+    "emailHint": "Fast reply for briefs and alignment",
+    "phoneHint": "Call or direct message",
+    "whatsappValue": "Open chat",
+    "whatsappHint": "Fast channel for initial contact",
+    "githubHint": "Repositories, history, and experiments"
+  },
+  "footer": {
+    "madeBy": "Built by",
+    "focus": "Portfolio focused on management and analytics systems",
+    "backToTop": "Back to top"
+  }
+}
